@@ -24,15 +24,15 @@ A S D F
 Z X C V
 ```
 
-M - Exit the program
-L - Choose a ROM from the rom folder / Down in the file browser
-P - Set the CPF / Up in the file browser
+M - Exit the program.\
+L - Choose a ROM from the rom folder / Down in the file browser.\
+P - Set the CPF / Up in the file browser.\
 O - Select a ROM from the file browser
 
 ### Command-Line Arguments
 `-h, --help` - Display available command line arguments.\
 `-o, --open [path]` - Directly load a ROM upon launch.\
-`-c, --cpf [number]` - Start Chip-84 with an initial cycles per frame value.\
+`-c, --cpf [number]` - Start Chip-84 with an initial cycles per frame value.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
