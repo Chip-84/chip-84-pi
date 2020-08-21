@@ -17,10 +17,12 @@ make
 
 ## Usage
 ### Keypad
-```1 2 3 4
+```
+1 2 3 4
 Q W E R
 A S D F
-Z X C V```
+Z X C V
+```
 
 M - Exit the program
 L - Choose a ROM from the rom folder / Down in the file browser
