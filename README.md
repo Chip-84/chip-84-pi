@@ -8,7 +8,7 @@ This version of Chip-84 requires no external libraries and instead uses lower-le
 
 ## Building
 
-### Linux
+### Raspberry Pi OS
 Clone the repository and run `make`:
 
 ```bash
